@@ -32,7 +32,7 @@ speed: the speed at which the obstacle moves
 imgTop: the image representing the top of the obstacle
 imgBottom: the image representing the bottom of the obstacle
 Credits
-This game was created by TOUNSI Islam. The font used in this game was sourced from [your font source here].
+This game was created by TOUNSI Islam.
 
 Acknowledgements
 This game was created as a learning exercise based on the Flappy Bird game.
